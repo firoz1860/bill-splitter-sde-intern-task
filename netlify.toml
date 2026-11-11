@@ -7,7 +7,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://bill-splitter-api.YOUR-SUBDOMAIN.workers.dev/api/:splat"
+  to = "https://bill-splitter-api.firoz-bills.workers.dev/api/:splat"
   status = 200
   force = true
 
